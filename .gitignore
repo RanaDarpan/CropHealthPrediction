@@ -74,3 +74,5 @@ frontend/public/uploads/
 .cache/
 db_dump.txt
 
+
+frontend/.git_backup
